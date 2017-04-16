@@ -23,6 +23,6 @@ For signup u need to configure `.env.server`:
 REACT_APP_EMAIL_TRANSPORT=smtps://user@domain.com:password@smtp.gate.com
 REACT_APP_EMAIL_FROM=user@domain.com
 
-Or u created users:
+Or u can use created users:
 
 root@root.com : toor
