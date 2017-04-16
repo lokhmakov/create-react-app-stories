@@ -2,15 +2,19 @@ Full isomorphic app based on `create-react-app`, `universal-router`, `isomorphic
 
 For start:
 
+```
 yarn build
 yarn build:server
 yarn start:server
+```
 
 Server started on http://0.0.0.0:5000/
 
 If u want start to develop front-end:
 
+```
 yarn start
+```
 
 And on http://0.0.0.0:3000/ started usual create-react-app connected to backend.
 
