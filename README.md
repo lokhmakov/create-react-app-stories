@@ -14,7 +14,7 @@ yarn start
 
 And on http://0.0.0.0:3000/ started usual create-react-app connected to backend.
 
-For signup u need to configure `.eng.server`:
+For signup u need to configure `.env.server`:
 
 REACT_APP_EMAIL_TRANSPORT=smtps://user@domain.com:password@smtp.gate.com
 REACT_APP_EMAIL_FROM=user@domain.com
