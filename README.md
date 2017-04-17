@@ -3,6 +3,7 @@ Full isomorphic app based on `create-react-app`, `universal-router`, `isomorphic
 For start:
 
 ```
+yarn
 yarn build
 yarn build:server
 yarn start:server
